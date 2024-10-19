@@ -2,7 +2,7 @@
 
 **Reproduce DeFi hack incidents using Foundry.**
 
-427 incidents included.
+536 incidents included.
 
 Let's make Web3 secure! Join [Discord](https://discord.gg/Fjyngakf3h)
 
@@ -26,38 +26,130 @@ All articles are also published on [Substack](https://defihacklabs.substack.com/
 ### OnChain transaction debugging
 
 - Lesson 1: Tools ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/01_tools/en) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/01_tools) | [Vietnamese](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/01_tools/vi) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/01_tools/ko) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/01_tools/es) )
-- Lesson 2: Warm up ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/ko) )
-- Lesson 3: Write Your Own PoC (Price Oracle Manipulation) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/ko) )
-- Lesson 4: Write Your Own PoC (MEV Bot) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/kr/) )
-- Lesson 5: Rugpull Analysis ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/05_Rugpull/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/05_Rugpull/) )
-- Lesson 6: Write Your Own PoC (Reentrancy) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/06_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/06_write_your_own_poc/) )
-- Lesson 7: Hack Analysis: Nomad Bridge, August 2022 ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/07_Analysis_nomad_bridge/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/07_Analysis_nomad_bridge/) )
+- Lesson 2: Warm up ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/ko) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/02_warmup/es) )
+- Lesson 3: Write Your Own PoC (Price Oracle Manipulation) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/ko) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/03_write_your_own_poc/es) )
+- Lesson 4: Write Your Own PoC (MEV Bot) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/) | [Korean](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/kr/) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/04_write_your_own_poc/es) )
+- Lesson 5: Rugpull Analysis ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/05_Rugpull/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/05_Rugpull/) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/05_Rugpull/es) )
+- Lesson 6: Write Your Own PoC (Reentrancy) ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/06_write_your_own_poc/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/06_write_your_own_poc/) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/06_write_your_own_poc/es) )
+- Lesson 7: Hack Analysis: Nomad Bridge, August 2022 ( [English](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/07_Analysis_nomad_bridge/en/) | [中文](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/07_Analysis_nomad_bridge/) | [Spanish](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/onchain_debug/07_Analysis_nomad_bridge/es) )
 
 ## Who Support Us? DeFiHackLabs Received Grant From
 
-[![gcc PM](https://github.com/SunWeb3Sec/DeFiHackLabs/assets/107249780/84fb64ac-1d2b-45ba-b864-b744bbbfdb30)](https://x.com/GCCofCommons)
+<a href="https://x.com/GCCofCommons">
+  <img src="https://github.com/SunWeb3Sec/DeFiHackLabs/assets/107249780/84fb64ac-1d2b-45ba-b864-b744bbbfdb30" width="600"/>
+</a>
 
 ## Donate us
 
 If you appreciate our work, please consider donating. Even a small amount helps us continue developing and improving our projects, and promoting web3 security.
 
+- Gitcoin - [Donate DeFiHackLabs](https://explorer.gitcoin.co/#/projects/0xbea14fd383c20cd085f30b2baa83ce96be83f1b56464bd74fcc00eb85086e280)
 - EVM Chains - 0xD7d6215b4EF4b9B5f40baea48F41047Eb67a11D5
 - [Giveth](https://giveth.io/donate/defihacklabs)
 
 ## List of Past DeFi Incidents
+
+[20241013 MorphoBlue](#20241013-morphoblue---overpriced-asset-in-oracle)
+
+[20241011 P719Token](#20241011-p719token---price-manipulation-inflate-attack)
+
+[20241006 HYDT](#20241010-hydt---oracle-price-manipulation)
+
+[20241006 SASHAToken](#20241006-sashatoken---price-manipulation)
+
+[20241005 AIZPTToken](#20241005-AIZPTToken---wrong-price-calculation)
+
+[20241002 LavaLending](#20241002-LavaLending---price-manipulation)
+
+[20241001 FireToken](#20241001-firetoken---pair-manipulation-with-transfer-function)
+
+[20240926 OnyxDAO](#20240926-OnyxDAO---fake-market)
+
+[20240926 Bedrock_DeFi](#20240926-Bedrock_DeFi---swap-eth/btc-1/1-in-mint-function)
+
+[20240924 MARA](#20240924-MARA---price-manipulation)
+
+[20240923 Bankroll_Network](#20240923-Bankroll_Network---incorrect-input-validation)
+
+[20240913 OTSeaStaking](#20240913-OTSeaStaking---Logic-Flaw)
+
+[20240910 Caterpillar_Coin_CUT](#20240910-Caterpillar_Coin_CUT---price-manipulation)
+
+[20240903 Penpiexyz_io](#20240903-Penpiexyz_io---reentrancy-and-reward-manipulation)
+
+[20240816 Zenterest](#20240816-Zenterest---price-out-of-date)
+
+[20240828 AAVE](#20240828-aave---arbitrary-call-error)
+
+[20240814 YodlRouter](#20240814-noname---arbitrary-call)
+
+[20240813 VOW](#20240813-vow---misconfiguration)
+
+[20240812 iVest](#20240812-iVest---business-logic-flaw)
+
+[20240806 Novax](#20240806-Novax---price-manipulation)
+
+[20240801 Convergence](#20240801-Convergence---incorrect-input-validation)
+
+[20240724 Spectra_finance](#20240724-spectra_finance---incorrect-input-validation)
+
+[20240723 MEVbot_0xdd7c](#20240723-mevbot_0xdd7c---incorrect-input-validation)
+
+[20240716 Lifiprotocol](#20240716-lifiprotocol---incorrect-input-validation)
+
+[20240714 Minterest](#20240714-minterest---Reentrancy)
+
+[20240712 DoughFina](#20240712-doughfina---incorrect-input-validation)
+
+[20240711 SBT](#20240711-sbt---business-logic-flaw)
+
+[20240711 GAX](#20240711-GAX---lack-of-access-control)
+
+[20240708 LW](#20240708-Lw---integer-underflow)
+
+[20240705 DeFiPlaza](#20240705-defiplaza---loss-of-precision)
+
+[20240703 UnverifiedContr_0x452E25](#20240703-UnverifiedContr_0x452E25---lack-of-access-control)
+
+[20240702 MRP](#20240702-mrp---reentrancy)
+
+[20240628 Will](#20240628-Will---business-logic-flaw)
+
+[20240627 APEMAGA](#20240627-APEMAGA---business-logic-flaw)
+
+[20240618 INcufi](#20240618-incufi---business-logic-flaw)
+
+[20240617 Dyson_money](#20240617-dyson_money---business-logic-flaw)
+
+[20240616 WIFCOIN_ETH](#20240616-WIFCOIN_ETH---business-logic-flaw)
+
+[20240611 Crb2](#20240616-Crb2---business-logic-flaw)
+
 [20240611 JokInTheBox](#20240611-JokInTheBox---business-logic-flaw)
 
 [20240610 Bazaar](#20240610-bazaar---insufficient-permission-check)
 
 [20240608 YYStoken](#20240608-YYStoken---business-logic-flaw)
 
+[20240606 SteamSwap](#20240606-steamswap---logic-flaw)
+
 [20240606 MineSTM](#20240606-MineSTM---business-logic-flaw)
 
+[20240604 NCD](#20240604-NCD---business-logic-flaw)
+
 [20240601 VeloCore](#20240601-VeloCore---lack-of-access-control)
+
+[20240531 Liquiditytokens](#20240531-liquiditytokens---business-logic-flaw)
+
+[20240531 MixedSwapRouter](#20240531-MixedSwapRouter---arbitrary-call)
 
 [20240529 SCROLL](#20240529-SCROLL---integer-underflow)
 
 [20240529 MetaDragon](#20240529-metadragon---lack-of-access-control)
+
+[20240528 Tradeonorion](#20240528-Tradeonorion---business-logic-flaw)
+
+[20240528 EXcommunity](#20240528-EXcommunity---business-logic-flaw)
 
 [20240527 RedKeysCoin](#20240527-redkeyscoin---weak-rng)
 
@@ -70,6 +162,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20240514 Sonne Finance](#20240514-sonne-finance---precision-loss)
 
 [20240514 PredyFinance](#20240514-predyfinance---reentrancy)
+
+[20240512 TGC](#20240512-tgc---business-logic-flaw)
 
 [20240510 GFOX](#20240510-gfox---lack-of-access-control)
 
@@ -85,6 +179,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240430 PikeFinance](#20240430-pikefinance---uninitialized-proxy)
 
+[20240427 BNBX](#20240427-BNBX---precision-loss)
+
 [20240425 NGFS](#20240425-ngfs---bad-access-control)
 
 [20240424 XBridge](#20240424-xbridge---logic-flaw)
@@ -97,11 +193,17 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240419 HedgeyFinance](#20240419-hedgeyfinance---logic-flaw)
 
+[20240417 UnverifiedContr_0x00C409](#20240417-UnverifiedContr_0x00C409---unverified-external-call)
+
 [20240416 SATX](#20240416-satx---logic-flaw)
 
 [20240416 MARS_DEFI](#20240416-mars---bad-reflection)
 
-[20240415 Chainge](#20240415-chainge---input-validation)
+[20240415 GFA](#20240415-gfa---business-logic-flaw)
+
+[20240415 ChaingeFinance](#20240415-chaingeFinance---arbitrary-external-call)
+
+[20240414 Hackathon](#20240414-hackathon---business-logic-flaw)
 
 [20240412 FIL314](#20240412-fil314---insufficient-validation-and-price-manipulation)
 
@@ -109,15 +211,21 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240412 GROKD](#20240412-grokd---lack-of-access-control)
 
+[20240410 BigBangSwap](#20240410-BigBangSwap---precision-loss)
+
 [20240409 UPS](#20240409-ups---business-logic-flaw)
 
 [20240408 SQUID](#20240408-squid---sandwich-attack)
 
 [20240404 WSM](#20240404-wsm---manipulating-price)
 
+[20240402 HoppyFrogERC](#20240402-hoppyfrogerc---business-logic-flaw)
+
 [20240401 ATM](#20240401-atm---business-logic-flaw)
 
-[20240401 OpenLeverage](#20240401-openleverage---reentrancy)
+[20240401 OpenLeverage](#20240401-openleverage---business-logic-flaw)
+
+[20240329 ETHFIN](#20240329-ethfin---lack-of-access-control)
 
 [20240329 PrismaFi](#20240329-prismaFi---insufficient-validation)
 
@@ -127,6 +235,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240314 ARK](#20240324-ark---business-logic-flaw)
 
+[20240323 CGT](#20240323-cgt---incorrect-access-control)
+
 [20240321 SSS](#20240321-sss---token-balance-doubles-on-transfer-to-self)
 
 [20240320 Paraswap](#20240320-paraswap---incorrect-access-control)
@@ -134,6 +244,10 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20240314 MO](#20240314-mo---business-logic-flaw)
 
 [20240313 IT](#20240313-it---business-logic-flaw)
+
+[20240312 BBT](#20240312-bbt---business-logic-flaw)
+
+[20240311 Binemon](#20240311-Binemon---precission-loss)
 
 [20240309 Juice](#20240309-juice---business-logic-flaw)
 
@@ -151,13 +265,19 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240228 SMOOFSStaking](#20240228-smoofsstaking---reentrancy)
 
+[20240223 Zoomer](#20240223-zoomer---business-logic-flaw)
+
 [20240223 CompoundUni](#20240223-CompoundUni---Oracle-bad-price)
 
 [20240223 BlueberryProtocol](#20240223-BlueberryProtocol---logic-flaw)
 
+[20240222 SwarmMarkets](#20240222-SwarmMarkets---lack-of-validation)
+
 [20240221 DeezNutz404](#20240221-deeznutz-404---lack-of-validation)
 
 [20240221 GAIN](#20240221-GAIN---bad-function-implementation)
+
+[20240220 EGGX](#20240220-EGGX---reentrancy)
 
 [20240219 RuggedArt](#20240219-RuggedArt---reentrancy)
 
@@ -165,7 +285,11 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240215 DualPools](#20240215-DualPools---precision-truncation)
 
+[20240215 Babyloogn](#20240215-Babyloogn---lack-of-validation)
+
 [20240215 Miner](#20240215-Miner---lack-of-validation-dst-address)
+
+[20240213 MINER BSC](#20240213-miner---price-manipulation)
 
 [20240211 Game](#20240211-game---reentrancy--business-logic-flaw)
 
@@ -175,9 +299,15 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240205 BurnsDefi](#20240205-burnsdefi---price-manipulation)
 
+[20240202 ADC](#20240202-adc---incorrect-access-control)
+
 [20240201 AffineDeFi](#20240201-affinedefi---lack-of-validation-userData)
 
+[20240130 XSIJ](#20240130-xsij---business-logic-flaw)
+
 [20240130 MIMSpell](#20240130-mimspell---precission-loss)
+
+[20240129 PeapodsFinance](#20240128-PeapodsFinance---reentrancy)
 
 [20240128 BarleyFinance](#20240128-barleyfinance---reentrancy)
 
@@ -191,7 +321,11 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20240117 SocketGateway](#20240112-socketgateway---lack-of-calldata-validation)
 
+[20240115 Shell_MEV_0xa898](#20240115-Shell_MEV_0xa898---lack-of-access-control)
+
 [20240112 WiseLending](#20240112-wiselending---bad-healthfactor-check)
+
+[20240110 Freedom](#20240110-Freedom---lack-of-access-control)
 
 [20240110 LQDX Alert](#20240110-lqdx---unauthorized-transferfrom)
 
@@ -205,7 +339,13 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 <details> <summary> 2023 </summary>
 
+[20231231 Channels BUSD&USDC](past/2023/README.md#20231231-channels---price-manipulation)
+
 [20231230 ChannelsFinance](past/2023/README.md#20231230-channelsfinance---compoundv2-inflation-attack)
+
+[20231228 CCV](past/2023/README.md#20231225-CCV---precision-loss)
+
+[20231228 DominoTT](past/2023/README.md#20231228-dominott---precision-loss) 
 
 [20231225 Telcoin](past/2023/README.md#20231225-telcoin---storage-collision)
 
@@ -213,17 +353,31 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20231220 TransitFinance](past/2023/README.md#20231220-transitfinance---lack-of-validation-pool)
 
+[20231217 Bob](past/2023/README.md#20231217-bob---price-manipulation)
+
 [20231217 FloorProtocol](past/2023/README.md#20231217-floorprotocol---business-logic-flaw)
 
 [20231216 GoodDollar](past/2023/README.md#20231216-gooddollar---lack-of-input-validation--reentrancy)
 
+[20231216 KEST](past/2023/README.md#20231216-kest---business-logic-flaw)
+
 [20231216 NFTTrader](past/2023/README.md#20231216-nfttrader---reentrancy)
 
+[20231214 PHIL](past/2023/README.md#20231214-PHIL---business-logic-flaw)
+
 [20231213 HYPR](past/2023/README.md#20231213-hypr---business-logic-flaw)
+
+[20231211 GoodCompound](past/2023/README.md#20231211-goodcompound---price-manipulation)
+
+[20231209 BCT](past/2023/README.md#20231209-bct---price-manipulation)
+
+[20231207 HNet](past/2023/README.md#20231207-HNet---business-logic-flaw)
 
 [20231206 TIME](past/2023/README.md#20231206-time---arbitrary-address-spoofing-attack)
 
 [20231206 ElephantStatus](past/2023/README.md#20231206-elephantstatus---price-manipulation)
+
+[20231205 MAMO](past/2023/README.md#20231205-mamo---price-manipulation)
 
 [20231205 BEARNDAO](past/2023/README.md#20231205-bearndao---business-logic-flaw)
 
@@ -231,9 +385,17 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20231201 UnverifiedContr_0x431abb](past/2023/README.md#20231201-unverifiedcontr_0x431abb---business-logic-flaw)
 
+[20231130 EEE](past/2023/README.md#20231130-eee---price-manipulation)
+
 [20231130 CAROLProtocol](past/2023/README.md#20231130-carolprotocol---price-manipulation-via-reentrancy)
 
+[20231129 Burntbubba](past/2023/README.md#20231129-burntbubba---price-manipulation)
+
 [20231129 AIS](past/2023/README.md#20231129-ais---access-control)
+
+[20231128 FiberRouter](past/2023/README.md#20231128-FiberRouter---input-validation)
+
+[20231125 MetaLend](past/2023/README.md#20231125-metalend---compoundv2-inflation-attack)
 
 [20231125 TheNFTV2](past/2023/README.md#20231125-thenftv2---logic-flaw)
 
@@ -242,6 +404,12 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20231117 Token8633_9419](past/2023/README.md#20231117-token8633_9419---price-manipulation)
 
 [20231117 ShibaToken](past/2023/README.md#20231117-shibatoken---business-logic-flaw)
+
+[20231116 WECO](past/2023/README.md#20231116-weco---business-logic-flaw)
+
+[20231115 EHX](past/2023/README.md#20231115-ehx---lack-of-slippage-control)
+
+[20231115 XAI](past/2023/README.md#20231115-xai---business-logic-flaw)
 
 [20231115 LinkDAO](past/2023/README.md#20231115-linkdao---bad-k-value-verification)
 
@@ -257,17 +425,27 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20231110 GrokToken](past/2023/README.md#20231110-grok---lack-of-slippage-protection)
 
+[20231107 RBalancer](past/2023/README.md#20231107-rbalancer---business-logic-flaw)
+
 [20231107 MEVbot](past/2023/README.md#20231107-mevbot---lack-of-access-control)
 
 [20231106 TrustPad](past/2023/README.md#20231106-trustpad---lack-of-msgsender-address-verification)
 
 [20231106 TheStandard_io](past/2023/README.md#20231106-thestandard_io---lack-of-slippage-protection)
 
+[20231106 KR](past/2023/README.md#20231106-KR---precission-loss)
+
+[20231102 BRAND](past/2023/README.md#20231102-brand---lack-of-access-control)
+
 [20231102 3913Token](past/2023/README.md#20231102-3913token---deflationary-token-attack)
+
+[20231101 SwampFinance](past/2023/README.md#20231101-swampfinance---business-logic-flaw)
 
 [20231101 OnyxProtocol](past/2023/README.md#20231101-onyxprotocol---precission-loss-vulnerability)
 
 [20231031 UniBotRouter](past/2023/README.md#20231031-UniBotRouter---arbitrary-external-call)
+
+[20231030 LaEeb](past/2023/README.md#20231030-laeeb---lack-slippage-protection)
 
 [20231028 AstridProtocol](past/2023/README.md#20231028-AstridProtocol---business-logic-flaw)
 
@@ -288,6 +466,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20231012 Platypus](past/2023/README.md#20231012-platypus---business-logic-flaw)
 
 [20231011 BH](past/2023/README.md#20231011-bh---price-manipulation)
+
+[20231008 ZS](past/2023/README.md#20231008-zs---business-logic-flaw)
 
 [20231008 pSeudoEth](past/2023/README.md#20231008-pseudoeth---pool-manipulation)
 
@@ -314,6 +494,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20230908 APIG](past/2023/README.md#20230908-apig---business-logic-flaw)
 
 [20230907 HCT](past/2023/README.md#20230907-hct---price-manipulation)
+
+[20230905 QuantumWN](past/2023/README.md#20230905-quantumwn---rebasing-logic-issue)
 
 [20230905 JumpFarm](past/2023/README.md#20230905-JumpFarm---rebasing-logic-issue)
 
@@ -375,6 +557,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20230717 NewFi](past/2023/README.md#20230717-newfi---lack-slippage-protection)
 
+[20230715 USDTStakingContract28](past/2023/README.md#20230715-usdtstakingcontract28---lack-of-access-control)
+
 [20230712 Platypus](past/2023/README.md#20230712-platypus---bussiness-logic-flaw)
 
 [20230712 WGPT](past/2023/README.md#20230712-wgpt---business-logic-flaw)
@@ -399,7 +583,13 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20230630 Biswap](past/2023/README.md#20230630-biswap---v3migrator-exploit)
 
+[20230630 MyAi](past/2023/README.md#20230630-MyAi---business-loigc)
+
 [20230628 Themis](past/2023/README.md#20230628-themis---manipulation-of-prices-using-flashloan)
+
+[20230627 UnverifiedContr_9ad32](past/2023/README.md#20230627-unverifiedcontr_9ad32---business-loigc-flaw)
+
+[20230627 STRAC](past/2023/README.md#20230627-STRAC---business-loigc)
 
 [20230623 SHIDO](past/2023/README.md#20230623-shido---business-loigc)
 
@@ -409,7 +599,11 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20230620 MIM](past/2023/README.md#20230620-mimspell---arbitrary-external-call-vulnerability)
 
+[20230619 Contract_0x7657](past/2023/README.md#20230620-Contract_0x7657---business-loigc)
+
 [20230618 ARA](past/2023/README.md#20230618-ara---incorrect-handling-of-permissions)
+
+[20230617 MidasCapitalXYZ](past/2023/README.md#20230617-midascapitalxyz---precision-loss)
 
 [20230617 Pawnfi](past/2023/README.md#20230617-pawnfi---business-logic-flaw)
 
@@ -595,6 +789,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20221211 Lodestar](past/2022/README.md#20221211---lodestar---flashloan-price-manipulation)
 
+[20221211 MEVbot_0x28d9](past/2022/README.md#20221211---MEVbot_0x28d9---insufficient-validation)
+
 [20221210 MUMUG](past/2022/README.md#20221210---mumug---flashloan-price-manipulation)
 
 [20221210 TIFIToken](past/2022/README.md#20221210---tifitoken---flashloan-price-manipulation)
@@ -622,6 +818,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20221121 SDAO](past/2022/README.md#20221121---sdao---business-logic-flaw)
 
 [20221119 AnnexFinance](past/2022/README.md#20221119---annexfinance---verify-flashloan-callback)
+
+[20221118 Polynomial](past/2022/README.md#20221118---polynomial---no-input-validation)
 
 [20221117 UEarnPool](past/2022/README.md#20221117---uearnpool---flashloan-attack)
 
@@ -697,9 +895,9 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20220913 MevBot Private TX](past/2022/README.md#20220913-mevbot-private-tx)
 
-[20220910 DPC](past/2022/README.md#20220910-dpc---Incorrect-Reward-calculation)
+[20220909 DPC](past/2022/README.md#20220909-dpc---Incorrect-Reward-calculation)
 
-[20220909 YYDS](past/2022/README.md#20220909-YYDS---pair-manipulate)
+[20220908 YYDS](past/2022/README.md#20220908-YYDS---pair-manipulate)
 
 [20220908 NewFreeDAO](past/2022/README.md#20220908-newfreedao---flashloans-attack)
 
@@ -717,11 +915,19 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20220824 LuckyTiger NFT](past/2022/README.md#20220824-luckytiger-nft---predicting-random-numbers)
 
+[20220816 Circle_2](past/2022/README.md#20220816-circle---price-manipulation)
+
+[20220813 Circle](past/2022/README.md#20220813-circle---price-manipulation)
+
 [20220810 XSTABLE Protocol](past/2022/README.md#20220810-xstable-protocol---incorrect-logic-check)
 
 [20220809 ANCH](past/2022/README.md#20220809-anch---skim-token-balance)
 
 [20220807 EGD Finance](past/2022/README.md#20220807-egd-finance---flashloans--price-manipulation)
+
+[20220804 EtnProduct](past/2022/README.md#20220804-etnproduct---business-logic-flaw)
+
+[20220803 Qixi](past/2022/README.md#20220803-qixi---underflow)
 
 [20220802 Nomad Bridge](past/2022/README.md#20220802-nomad-bridge---business-logic-flaw--incorrect-acceptable-merkle-root-checks)
 
@@ -799,7 +1005,7 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20220320 Umbrella Network](past/2022/README.md#20220320-umbrella-network---underflow)
 
-[20220315 Agave Finance](past/2022/README.md#20220313-agave-finance---erc667-reentrancy)
+[20220315 Agave Finance](past/2022/README.md#20220315-agave-finance---erc667-reentrancy)
 
 [20220315 Hundred Finance](past/2022/README.md#20220313-hundred-finance---erc667-reentrancy)
 
@@ -833,6 +1039,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20211214 Nerve Bridge](past/2021/README.md#20211214-nerve-bridge---swap-metapool-attack)
 
 [20211130 MonoX Finance](past/2021/README.md#20211130-monox-finance---price-manipulation)
+
+[20211123 Ploutoz Finance](past/2021/README.md#20211123-ploutoz---flash-loan)
 
 [20211027 Cream Finance](past/2021/README.md#20211027-creamfinance---price-manipulation)
 
@@ -872,9 +1080,13 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20210603 PancakeHunny](past/2021/README.md#20210603-pancakehunny---incorrect-calculation)
 
+[20210527 JulSwap](past/2021/README.md#20210527-julswap---flash-loan)
+
 [20210527 BurgerSwap](past/2021/README.md#20210527-burgerswap---mathematical-flaw--reentrancy)
 
 [20210519 PancakeBunny](past/2021/README.md#20210519-pancakebunny---price-oracle-manipulation)
+
+[20210516 bEarn](past/2021/README.md#20210516-bearn---logic-flaw)
 
 [20210508 Rari Capital](past/2021/README.md#20210509-raricapital---cross-contract-reentrancy)
 
@@ -901,6 +1113,8 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 [20201026 Harvest Finance](past/2021/README.md#20201026-harvest-finance---flashloan-attack)
 
+[20200912 bzx](past/2021/README.md#20200912-bzx---incorrect-transfer)
+
 [20200804 Opyn Protocol](past/2021/README.md#20200804-opyn-protocol---msgValue-in-loop)
 
 [20200628 Balancer Protocol](past/2021/README.md#20200628-balancer-protocol---token-incompatible)
@@ -910,6 +1124,10 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 [20200419 LendfMe](past/2021/README.md#20200419-lendfme---erc777-reentrancy)
 
 [20200418 UniSwapV1](past/2021/README.md#20200418-uniswapv1---erc777-reentrancy)
+
+[20181007 SpankChain](past/2021/README.md#20181007-spankchain---reentrancy)
+
+[20180424 SmartMesh](past/2021/README.md#20180424-smartmesh---overflow)
 
 [20180422 Beauty Chain](past/2021/README.md##20180422-beauty-chain---integer-overflow)
 
@@ -939,33 +1157,722 @@ If you appreciate our work, please consider donating. Even a small amount helps 
 
 ### List of DeFi Hacks & POCs
 
-### 20240611 JokInTheBox - business logic flaw
 
-### Lost: 9.2 eth
+
+
+### 20241013 MorphoBlue - Overpriced Asset in Oracle
+
+### Lost: $230,000
+
 
 ```sh
-forge test --contracts .\src\test\2024-06\JokInTheBox.sol  -vv --evm-version cancun
-
+forge test --contracts ./src/test/2024-10/MorphoBlue_exp.sol -vvv --evm-version shanghai
 ```
 #### Contract
+[MorphoBlue_exp.sol](src/test/2024-10/MorphoBlue_exp.sol)
+### Link reference
+
+https://x.com/omeragoldberg/status/1845515843787960661
+
+---
+
+### 20241011 P719Token - Price Manipulation Inflate Attack
+
+### Total Lost : 547.18 BNB (~$312K USD)
+
+```
+forge test --match-contract P719Token_exp -vvv
+```
+
+#### Contract
+
+[P719Token_exp.sol](src/test/2024-10/P719Token_exp.sol)
+
+### Link reference
+
+https://x.com/TenArmorAlert/status/1844753750386426182
+
+---
+
+### 20241006 SASHAToken - Price Manipulation
+
+### Total Lost : ~249 ETH (~$600K USD)
+
+```
+forge test --match-contract SASHAToken_exp -vvv
+```
+
+#### Contract
+
+[SASHAToken_exp.sol](src/test/2024-10/SASHAToken_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1842864840265883833
+
+---
+
+
+### 20241010 HYDT - Oracle Price Manipulation
+
+### Total Lost : 5.8k USDT
+
+```
+forge test --contracts ./src/test/2024-10/HYDT_exp.sol -vvv --evm-version cancun
+```
+
+#### Contract
+
+[HYDT_exp.sol](src/test/2024-10/HYDT_exp.sol)
+
+### Link reference
+
+https://x.com/TenArmorAlert/status/1844241843518951451
+
+---
+
+### 20241005 AIZPTToken - Wrong Price Calculation
+
+### Total Lost : 34.88 BNB (~$20K USD)
+
+```sh
+forge test --match-contract AIZPTToken_exp -vvv
+```
+
+#### Contract
+
+[AIZPTToken_exp.sol](src/test/2024-10/AIZPTToken_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1842576732047700077
+
+---
+
+### 20241001 FireToken - Pair Manipulation With Transfer Function
+
+### Lost: 8.45 ETH (~$20K USD)
+
+```sh
+forge test --contracts ./src/test/2024-10/FireToken_exp.sol -vvv
+```
+
+#### Contract
+
+[FireToken_exp.sol](src/test/2024-10/FireToken_exp.sol)
+
+### Link reference
+
+https://twitter.com/0xNickLFranklin/status/1841305965750350089
+
+---
+
+### 20241002 LavaLending - Price Manipulation
+
+### Lost: 1 USDC, 125795.6 cUSDC, 0,0067 WBTC, 2.25 WETH (~$130K USD)
+
+```sh
+forge test --match-contract LavaLending_exp -vvv
+```
+
+#### Contract
+
+[LavaLending_exp.sol](src/test/2024-10/LavaLending_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1841823216425435308
+
+
+https://nickfranklin.site/2024/10/03/unknown-lending-project-hacked-due-to-price-oracle-manipulation/
+
+---
+
+### 20240926 OnyxDAO - Fake Market
+
+### Lost: 4.1M VUSD, 7.35M XCN, 5K DAI, 0.23 WBTC, 50K USDT (>$3.8M USD)
+
+```sh
+forge test --match-contract OnyxDAO_exp -vvv
+```
+
+#### Contract
+
+[OnyxDAO_exp.sol](src/test/2024-09/OnyxDAO_exp.sol)
+
+### Link reference
+
+https://x.com/peckshield/status/1839302663680438342
+
+---
+
+### 20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function
+
+### Lost: 27.83925883 BTC (~$1.7M USD)
+
+```sh
+forge test --match-contract Bedrock_DeFi_exp -vvv
+```
+
+#### Contract
+
+[Bedrock_DeFi_exp.sol](src/test/2024-09/Bedrock_DeFi_exp.sol)
+
+### Link reference
+
+https://x.com/certikalert/status/1839403126694326374
+
+---
+
+### 20240924-MARA---price-manipulation
+
+### Lost: ~8.8 WBNB (~5.3K USD)
+
+```sh
+forge test --match-contract MARA_exp -vvv
+
+```
+
+#### Contract
+
+[MARA_exp.sol](/src/test/2024-09/MARA_exp.sol)
+
+### Link reference
+
+https://bscscan.com/tx/0x0fe3716431f8c2e43217c3ca6d25eed87e14d0fbfa9c9ee8ce4cef2e5ec4583c
+
+### 20240923 Bankroll_Network - Incorrect input validation
+
+### Lost: ~404 WBNB (~234.8K USD)
+
+```sh
+forge test --match-contract Bankroll_exp -vvv
+```
+
+#### Contract
+
+[Bankroll_exp.sol](/src/test/2024-09/Bankroll_exp.sol)
+
+### Link reference
+
+https://x.com/Phalcon_xyz/status/1838042368018137547
+
+---
+
+### 20240913 OTSeaStaking - Logic Flaw
+
+### Lost: 26k
+
+```sh
+forge test --match-contract OTSeaStaking_exp -vvv
+```
+#### Contract
+
+[OTSeaStaking_exp.sol](src/test/2024-09/OTSeaStaking_exp.sol)
+
+### Link reference
+
+Nick Franklin: https://nickfranklin.site/2024/09/13/otsea-staking-hacked/
+
+
+---
+
+### 20240910 Caterpillar_Coin_CUT - Price Manipulation
+
+### Lost: ~1.4M USD
+
+```sh
+forge test --match-contract Caterpillar_Coin_CUT_exp -vvv --evm-version shanghai
+```
+
+#### Contract
+
+[Caterpillar_Coin_CUT_exp.sol](/src/test/2024-09/Caterpillar_Coin_CUT_exp.sol)
+
+### Link reference
+
+https://www.certik.com/zh-CN/resources/blog/caterpillar-coin-cut-token-incident-analysis
+
+
+---
+
+### 20240903 Penpiexyz_io - Reentrancy and Reward Manipulation
+
+### Lost: 11,113.6 ETH (~$27,348,259 USD)
+
+```sh
+forge test --match-contract Penpiexyzio_exp -vvv --evm-version shanghai
+```
+#### Contract
+
+[Penpiexyzio_exp.sol](src/test/2024-09/Penpiexyzio_exp.sol)
+
+### Link reference
+
+https://x.com/peckshield/status/1831072098669953388
+
+https://x.com/AnciliaInc/status/1831080555292856476
+
+https://x.com/hackenclub/status/1831383106554573099
+
+post-morten: https://x.com/Penpiexyz_io/status/1831462760787452240
+
+---
+
+### 20240828 AAVE - Arbitrary Call Error
+
+### Lost: 52000
+
+```sh
+forge test --match-contract AAVE_Repay_Adapter -vvv
+```
+
+#### Contract
+
+[AAVE_Repay_Adapter.sol](src/test/2024-08/AAVE_Repay_Adapter.sol)
+
+### Link reference
+
+https://www.vibraniumaudits.com/post/aave-hacked-via-periphery-contract-56kstolenfromtipjar
+
+### 20240816 Zenterest - Price Out Of Date
+
+### Lost: ~21000 USD
+
+```sh
+forge test --match-contract Zenterest_exp -vvvv --evm-version shanghai
+```
+#### Contract
+
+[Zenterest_exp.sol](src/test/2024-08/Zenterest_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1824579761383018564
+
+---
+
+### 20240814 NoName - Arbitrary Call
+
+### Lost: ~5k
+
+
+```sh
+forge test --match-contract YodlRouter_exp -vvv
+```
+#### Contract
+[YodlRouter_exp.sol](src/test/2024-08/YodlRouter_exp.sol)
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1823601087011807636
+
+---
+
+### 20240813 VOW - Misconfiguration
+
+### Lost: ~ 1M USD
+
+
+```sh
+forge test --match-contract VOW_exp -vvv
+```
+#### Contract
+[VOW_exp.sol](src/test/2024-08/VOW_exp.sol)
+### Link reference
+
+https://x.com/Vowcurrency/status/1823407231658025300
+
+---
+
+### 20240812 iVest - Business logic flaw
+
+### Lost: ~338 WBNB
+
+```sh
+forge test --match-contract IvestDao_exp -vvv
+```
+
+#### Contract
+
+[IvestDao_exp.sol](src/test/2024-08/IvestDao_exp.sol)
+
+### Link reference
+
+https://x.com/AnciliaInc/status/1822870201698050064
+
+---
+
+
+### 20240806 Novax - Price Manipulation
+
+### Lost: ~25K USD
+
+```sh
+forge test --match-contract NovaXM2E_exp -vvv
+```
+
+#### Contract
+
+[NovaXM2E_exp.sol](src/test/2024-08/NovaXM2E_exp.sol)
+
+### Link reference
+
+https://x.com/EXVULSEC/status/1820676684410147276
+
+---
+
+### 20240801 Convergence - Incorrect input validation
+
+### Lost: ~200K USD
+
+```sh
+forge test --match-contract Convergence_exp -vvvv --evm-version cancun
+```
+
+#### Contract
+
+[Convergence_exp.sol](src/test/2024-08/Convergence_exp.sol)
+
+### Link reference
+
+https://x.com/DecurityHQ/status/1819030089012527510
+
+---
+
+### 20240724 Spectra_finance - Incorrect input validation
+
+### Lost: ~73K USD
+
+```sh
+forge test --match-contract Spectra_finance_exp -vvv
+```
+
+#### Contract
+
+[Spectra_finance_exp.sol](src/test/2024-07/Spectra_finance_exp.sol)
+
+### Link reference
+
+https://x.com/shoucccc/status/1815981585637990899
+
+---
+
+### 20240723 MEVbot_0xdd7c - Incorrect input validation
+
+### Lost: ~18k USD
+
+```sh
+forge test --match-contract -vvv --evm-version cancun
+```
+
+#### Contract
+
+[MEVbot_0xdd7c_exp.sol](src/test/2024-07/MEVbot_0xdd7c_exp.sol)
+
+### Link reference
+
+https://x.com/SlowMist_Team/status/1815656653100077532
+
+---
+
+### 20240716 Lifiprotocol - Incorrect input validation
+
+### Lost: ~10M USD
+
+```sh
+forge test --match-contract Lifiprotocol_exp -vvv
+```
+
+#### Contract
+
+[Lifiprotocol_exp.sol](src/test/2024-07/Lifiprotocol_exp.sol)
+
+### Link reference
+
+https://x.com/danielvf/status/1505689981385334784
+
+---
+
+### 20240714 Minterest - Reentrancy
+
+### Lost: ~427 ETH
+
+```sh
+forge test --match-contract Minterest_exp -vvv
+```
+
+#### Contract
+
+[Minterest_exp.sol](src/test/2024-07/Minterest_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1813122959219040323
+
+---
+
+### 20240712 DoughFina - Incorrect input validation
+
+### Lost: ~1.8M USD
+
+```sh
+forge test --match-contract DoughFina_exp -vvv
+```
+
+#### Contract
+
+[DoughFina_exp.sol](src/test/2024-07/DoughFina_exp.sol)
+
+### Link reference
+
+https://x.com/CertiKAlert/status/1811668992882307478
+
+---
+
+### 20240711 SBT - business logic flaw
+
+### Lost: ~56K USD
+
+```sh
+forge test --match-contract SBT_exp -vvv
+```
+
+#### Contract
+
+[SBT_exp.sol](src/test/2024-07/SBT_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1811401263969673654
+
+---
+
+### 20240711 GAX - Lack of access control
+
+### Lost: ~50K $BUSD
+
+```sh
+forge test --match-contract GAX_exp -vvv
+```
+
+#### Contract
+
+[GAX_exp.sol](src/test/2024-07/GAX_exp.sol)
+
+### Link reference
+
+https://x.com/EXVULSEC/status/1811348160851378333
+
+---
+
+### 20240708 LW - Integer Underflow
+
+### Lost: ~7K USD
+
+```sh
+forge test --match-contract LW_exp -vvv
+```
+
+#### Contract
+
+[LW_exp.sol](src/test/2024-07/LW_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1810245893490368820
+
+---
+
+### 20240705 DeFiPlaza - loss of precision
+
+### Lost: ~200K USD
+
+```sh
+forge test --match-contract DeFiPlaza_exp -vvv
+```
+
+#### Contract
+
+[DeFiPlaza_exp.sol](src/test/2024-07/DeFiPlaza_exp.sol)
+
+### Link reference
+
+https://x.com/DecurityHQ/status/1809222922998808760
+
+---
+
+### 20240703 UnverifiedContr_0x452E25 - lack-of-access-control
+
+### Lost: 27 ETH
+
+```sh
+forge test --match-contract UnverifiedContr_0x452E25_exp -vvv --evm-version "cancun"
+```
+
+#### Contract
+
+[UnverifiedContr_0x452E25_exp.sol](src/test/2024-07/UnverifiedContr_0x452E25_exp.sol)
+
+### Link reference
+
+https://x.com/SlowMist_Team/status/1808334870650970514
+
+---
+
+### 20240702 MRP - Reentrancy
+
+### Lost: 17 BNB
+
+```sh
+forge test --match-contract MRP_exp -vvv
+```
+
+#### Contract
+
+[MRP_exp.sol](src/test/2024-07/MRP_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1808309614443733005
+
+---
+
+### 20240628 Will - business logic flaw
+
+### Lost: $52K
+
+```sh
+forge test --match-contract Will_exp -vvv --evm-version "shanghai"
+```
+
+#### Contract
+
+[Will_exp.sol](src/test/2024-06/Will_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1806704287252394238
+
+---
+
+### 20240627 APEMAGA - business logic flaw
+
+### Lost: ~9 ETH
+
+```sh
+forge test --match-contract APEMAGA_exp -vvv --evm-version "shanghai"
+```
+
+#### Contract
+
+[APEMAGA_exp.sol](src/test/2024-06/APEMAGA_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1806297556852601282
+
+---
+
+### 20240618 INcufi - business logic flaw
+
+### Lost: ~59K USD
+
+```sh
+forge test --match-contract INcufi_exp -vvv
+```
+
+#### Contract
+
+[INcufi_exp.sol](src/test/2024-06/Incufi_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1803317022513832301
+
+---
+
+### 20240617 Dyson_money - business logic flaw
+
+### Lost: 52 BNB
+
+```sh
+forge test --match-contract Dyson_money_exp -vvv
+```
+
+#### Contract
+
+[Dyson_money_exp.sol](src/test/2024-06/Dyson_money_exp.sol)
+
+### Link reference
+
+https://x.com/0xNickLFranklin/status/1802634237667054052
+
+---
+
+### 20240616 WIFCOIN_ETH - business logic flaw
+
+### Lost: ~3.4 ETH (WIF token)
+
+```sh
+forge test --match-contract WIFCOIN_ETH_exp -vvv --evm-version "shanghai"
+```
+
+#### Contract
+
+[WIFCOIN_ETH_exp.sol](src/test/2024-06/WIFCOIN_ETH_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1802550962977964139
+
+---
+
+### 20240616 Crb2 - business logic flaw
+
+### Lost: ~15K
+
+```sh
+forge test --match-contract Crb2_exp -vvv --evm-version shanghai
+```
+
+#### Contract
+
+[Crb2_exp.sol](src/test/2024-06/Crb2_exp.sol)
+
+### Link reference
+
+---
+
+### 20240611 JokInTheBox - business logic flaw
+
+### Lost: ~9.2 ETH
+
+```sh
+forge test --match-contract JokInTheBox_exp -vvv --evm-version cancun
+```
+
+#### Contract
+
 [JokInTheBox_exp.sol](src/test/2024-06/JokInTheBox_exp.sol)
+
 ### Link reference
 
 https://x.com/0xNickLFranklin/status/1800355604692910571
 
 ---
 
-
 ### 20240610 Bazaar - Insufficient Permission Check
 
 ### Lost: 1.4M
 
-
 ```sh
-forge test --contracts ./src/test/2024-06/Bazaar_exp.sol -vvv
+forge test --match-contract Bazaar_exp -vvv
 ```
+
 #### Contract
+
 [Bazaar_exp.sol](src/test/2024-06/Bazaar_exp.sol)
+
 ### Link reference
 
 https://x.com/shoucccc/status/1800353122159833195
@@ -977,7 +1884,7 @@ https://x.com/shoucccc/status/1800353122159833195
 ### Lost: $28K
 
 ```sh
-forge test --contracts  src/test/2024-06/YYS_exp.sol -vv
+forge test --match-contract YYS_exp -vv
 ```
 
 #### Contract
@@ -990,12 +1897,30 @@ https://x.com/0xNickLFranklin/status/1799610045589831833
 
 ---
 
+### 20240606 SteamSwap - Logic Flaw
+
+### Lost: ~$91k
+
+```sh
+forge test --match-contract SteamSwap_exp -vvv --evm-version shanghai
+```
+
+#### Contract
+
+[SteamSwap_exp.sol](src/test/2024-06/SteamSwap_exp.sol)
+
+### Link reference
+
+https://x.com/SlowMist_Team/status/1798905797440897386
+
+---
+
 ### 20240606 MineSTM - Business Logic Flaw
 
 ### Lost: $13.8K
 
 ```sh
-forge test --contracts  src/test/2024-06/MineSTM_exp.sol -vv
+forge test --match-contract MineSTM_exp -vv
 ```
 
 #### Contract
@@ -1008,12 +1933,30 @@ https://x.com/0xNickLFranklin/status/1798920774511898862
 
 ---
 
+### 20240604 NCD - Business Logic Flaw
+
+### Lost: $6.4K
+
+```sh
+forge test --match-contract NCD_exp -vv
+```
+
+#### Contract
+
+[NCD_exp.sol](src/test/2024-06/NCD_exp.sol)
+
+### Link reference
+
+https://x.com/SlowMist_Team/status/1797821034319765604
+
+---
+
 ### 20240601 VeloCore - lack-of-access-control
 
 ### Lost: $6.88M
 
 ```sh
-forge test --contracts  src/test/2024-06/Velocore_exp.sol -vv
+forge test --match-contract Velocore_exp -vv
 ```
 
 #### Contract
@@ -1026,12 +1969,48 @@ https://x.com/BeosinAlert/status/1797247874528645333
 
 ---
 
+### 20240531 Liquiditytokens - Business Logic Flaw
+
+### Lost: ~200K USD
+
+```sh
+forge test --match-contract Liquiditytokens_exp -vvv
+```
+
+#### Contract
+
+[Liquiditytokens_exp.sol](src/test/2024-05/Liquiditytokens_exp.sol)
+
+### Link reference
+
+https://x.com/EXVULSEC/status/1796499069583724638
+
+---
+
+### 20240531 MixedSwapRouter - Arbitrary Call
+
+### Lost: >10700USD(WINR token)
+
+```sh
+forge test --match-contract MixedSwapRouter_exp -vvv
+```
+
+#### Contract
+
+[MixedSwapRouter_exp.sol](src/test/2024-05/MixedSwapRouter_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1796484286738227579
+
+---
+
 ### 20240529 SCROLL - Integer Underflow
 
 ### Lost: 76 ETH
 
 ```sh
-forge test --contracts ./src/test/2024-05/SCROLL_exp.sol -vvv
+forge test --match-contract SCROLL_exp -vvv
 ```
 
 #### Contract
@@ -1049,7 +2028,7 @@ https://x.com/0xNickLFranklin/status/1795650745448169741
 ### Lost: ~ $180k
 
 ```sh
-forge test --contracts src/test/2024-05/MetaDragon_exp.sol -vvvvv  --evm-version shanghai
+forge test --match-contract MetaDragon_exp -vvvvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1062,12 +2041,48 @@ https://x.com/Phalcon_xyz/status/1795746828064854497
 
 ---
 
+### 20240528 Tradeonorion - Business Logic Flaw
+
+### Lost: ~645K
+
+```sh
+forge test --match-contract Tradeonorion_exp -vvv
+```
+
+#### Contract
+
+[Tradeonorion_exp.sol](src/test/2024-05/Tradeonorion_exp.sol)
+
+### Link reference
+
+https://x.com/MetaSec_xyz/status/1796008961302258001
+
+---
+
+### 20240528 EXcommunity - Business Logic Flaw
+
+### Lost: 33BNB
+
+```sh
+forge test --match-contract EXcommunity_exp -vvv
+```
+
+#### Contract
+
+[EXcommunity_exp.sol](src/test/2024-05/EXcommunity_exp.sol)
+
+### Link reference
+
+https://x.com/SlowMist_Team/status/1795648617530995130
+
+---
+
 ### 20240527 RedKeysCoin - Weak RNG
 
 ### Lost: $12K
 
 ```sh
-forge test --contracts ./src/test/2024-05/RedKeysCoin_exp.sol -vvv --evm-version shanghai
+forge test --match-contract RedKeysCoin_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1083,7 +2098,7 @@ forge test --contracts ./src/test/2024-05/RedKeysCoin_exp.sol -vvv --evm-version
 ### Lost: $490K
 
 ```sh
-forge test --contracts ./src/test/2024-05/NORMIE_exp.sol -vv
+forge test --match-contract NORMIE_exp -vv
 ```
 
 #### Contract
@@ -1101,7 +2116,7 @@ https://x.com/lookonchain/status/1794680612399542672
 ### Lost: 1.7 eth
 
 ```sh
-forge test --contracts ./src/test/2024-05/Burner_exp.sol -vv
+forge test --match-contract Burner_exp -vv
 ```
 
 #### Contract
@@ -1119,7 +2134,7 @@ https://x.com/0xNickLFranklin/status/1792925754243625311
 ### Lost: $18K
 
 ```sh
-forge test --contracts ./src/test/2024-05/TCH_exp.sol -vvv
+forge test --match-contract TCH_exp -vvv
 ```
 
 #### Contract
@@ -1137,7 +2152,7 @@ https://x.com/DecurityHQ/status/1791180322882629713
 ### Lost: $20M
 
 ```sh
-forge test --contracts ./src/test/2024-05/Sonne_exp.sol -vvv
+forge test --match-contract Sonne_exp -vvv
 ```
 
 #### Contract
@@ -1155,7 +2170,7 @@ https://neptunemutual.com/blog/taking-a-closer-look-at-sonne-finance-exploit/
 ### Lost: $464K
 
 ```sh
-forge test --contracts ./src/test/2024-05/PredyFinance_exp.sol -vvv
+forge test --match-contract PredyFinance_exp -vvv
 ```
 
 #### Contract
@@ -1168,12 +2183,30 @@ https://twitter.com/Phalcon_xyz/status/1790307019590680851
 
 ---
 
+### 20240512 TGC - Business Logic Flaw
+
+### Lost: $32K
+
+```sh
+forge test --match-contract TGC_exp -vvv
+```
+
+#### Contract
+
+[TGC_exp.sol](src/test/2024-05/TGC_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1789490986588205529
+
+---
+
 ### 20240510 GFOX - lack of access control
 
 ### Lost: 330K USD
 
 ```sh
-forge test --contracts ./src/test/2024-05/GFOX_exp.sol -vvv --evm-version shanghai
+forge test --match-contract GFOX_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1191,7 +2224,7 @@ https://twitter.com/CertiKAlert/status/1788751142144401886
 ### Lost: 140K
 
 ```sh
-forge test --contracts ./src/test/2024-05/TSURU_exp.sol -vvv --evm-version shanghai
+forge test --match-contract TSURU_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1209,7 +2242,7 @@ https://base.tsuru.wtf/usdtsuru-exploit-incident-report
 ### Lost: ~32K USD
 
 ```sh
-forge test --contracts src/test/2024-05/GPU_exp.sol -vvv
+forge test --match-contract GPU_exp -vvv
 ```
 
 #### Contract
@@ -1227,7 +2260,7 @@ https://twitter.com/PeckShieldAlert/status/1788153869987611113
 ### Lost: ~15 BNB
 
 ```sh
-forge test --contracts src/test/2024-05/OSN_exp.sol -vvv
+forge test --match-contract OSN_exp -vvv
 ```
 
 #### Contract
@@ -1245,7 +2278,7 @@ https://twitter.com/ChainAegis/status/1787667253435195841
 ### Lost: ~109K USD
 
 ```sh
-forge test --contracts src/test/2024-05/OSN_exp.sol -vvv --evm-version shanghai
+forge test --match-contract OSN_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1263,7 +2296,7 @@ https://twitter.com/SlowMist_Team/status/1787330586857861564
 ### Lost: 181K
 
 ```sh
-forge test --contracts ./src/test/2024-04/Yield_exp.sol -vvv
+forge test --match-contract Yield_exp -vvv
 ```
 
 #### Contract
@@ -1283,7 +2316,7 @@ https://medium.com/immunefi/yield-protocol-logic-error-bugfix-review-7b86741e6f5
 ### Lost: 1.4M
 
 ```sh
-forge test --contracts ./src/test/2024-04/PikeFinance_exp.sol -vvv
+forge test --match-contract PikeFinance_exp -vvv
 ```
 
 #### Contract
@@ -1296,12 +2329,30 @@ https://twitter.com/Phalcon_xyz/status/1785508900093194591
 
 ---
 
+### 20240427 BNBX - precission loss
+
+### Lost: ~75 $BNB
+
+```sh
+forge test --match-contract BNBX_exp -vvv --evm-version shanghai
+```
+
+#### Contract
+
+[BNBX_exp.sol](src/test/2024-04/BNBX_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1784431544557514896
+
+---
+
 ### 20240425 NGFS - Bad Access Control
 
 ### Lost: ~190K
 
 ```sh
-forge test --contracts ./src/test/2024-04/NGFS_exp.sol -vvv --evm-version shanghai
+forge test --match-contract NGFS_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1319,7 +2370,7 @@ https://twitter.com/CertiKAlert/status/1783476515331616847
 ### Lost: >200k USD(plus a lot of STC, SRLTY, Mazi tokens)
 
 ```sh
-forge test --contracts ./src/test/2024-04/XBridge_exp.sol -vvv
+forge test --match-contract XBridge_exp -vvv
 ```
 
 #### Contract
@@ -1333,7 +2384,7 @@ forge test --contracts ./src/test/2024-04/XBridge_exp.sol -vvv
 ### Lost: 150k USD
 
 ```sh
-forge test --contracts ./src/test/2024-04/YIEDL_exp.sol -vvv
+forge test --match-contract YIEDL_exp -vvv
 ```
 
 #### Contract
@@ -1345,7 +2396,7 @@ forge test --contracts ./src/test/2024-04/YIEDL_exp.sol -vvv
 ### Lost: 136k USD
 
 ```sh
-forge test --contracts ./src/test/2024-04/Z123_exp.sol -vvv
+forge test --match-contract Z123_exp -vvv
 ```
 
 #### Contract
@@ -1363,7 +2414,7 @@ https://twitter.com/PeckShieldAlert/status/1782322484911784385
 ### Lost: 36K
 
 ```sh
-forge test --contracts ./src/test/2024-04/Rico_exp.sol -vvv
+forge test --match-contract Rico_exp -vvv
 ```
 
 #### Contract
@@ -1381,7 +2432,7 @@ https://twitter.com/ricocreditsys/status/1781803698940781009
 ### Lost: 48M USD
 
 ```sh
-forge test --contracts ./src/test/2024-04/HedgeyFinance_exp.sol -vvv
+forge test --match-contract HedgeyFinance_exp -vvv
 ```
 
 #### Contract
@@ -1394,12 +2445,30 @@ https://twitter.com/Cube3AI/status/1781294512716820918
 
 ---
 
+### 20240417 UnverifiedContr_0x00C409 - unverified external call
+
+### Lost: ~ 18 eth
+
+```sh
+forge test --match-contract UnverifiedContr_0x00C409_exp -vvv
+```
+
+#### Contract
+
+[UnverifiedContr_0x00C409_exp.sol](src/test/2024-04/UnverifiedContr_0x00C409_exp.sol)
+
+### Link reference
+
+https://x.com/CyversAlerts/status/1780593407871635538
+
+---
+
 ### 20240416 SATX - Logic Flaw
 
 ### Lost: ~ 50 BNB
 
 ```sh
-forge test --contracts src/test/2024-04/SATX_exp.sol -vvv
+forge test --match-contract SATX_exp -vvv
 ```
 
 #### Contract
@@ -1417,7 +2486,7 @@ https://x.com/bbbb/status/1780341239801393479
 ### Lost: >100K
 
 ```sh
-forge test --contracts src/test/2024-04/MARS_exp.sol -vv
+forge test --match-contract MARS_exp -vv
 ```
 
 #### Contract
@@ -1428,21 +2497,59 @@ forge test --contracts src/test/2024-04/MARS_exp.sol -vv
 
 https://twitter.com/Phalcon_xyz/status/1780150315603701933
 
-### 20240415 Chainge - Input Validation
+---
 
-### Lost: ~200K
+### 20240415 GFA - business-logic-flaw
+
+### Lost: ~14K USD
 
 ```sh
-forge test --contracts ./src/test/2024-04/Chainge_exp.sol -vvv
+forge test --match-contract GFA_exp -vvv
 ```
 
 #### Contract
 
-[Chainge_exp.sol](src/test/2024-04/Chainge_exp.sol)
+[GFA_exp.sol](src/test/2024-04/GFA_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1779809931962827055
+
+---
+
+### 20240415 ChaingeFinance - Arbitrary External Call 
+
+### Lost: ~560K
+
+```sh
+forge test --match-contract ChaingeFinance_exp -vvv
+```
+
+#### Contract
+
+[ChaingeFinance_exp.sol](src/test/2024-04/ChaingeFinance_exp.sol)
 
 ### Link reference
 
 https://twitter.com/CyversAlerts/status/1779875922381860920
+
+---
+
+### 20240414 Hackathon - business logic flaw
+
+### Lost: ~20K
+
+```sh
+forge test --match-contract Hackathon_exp -vvv
+```
+
+#### Contract
+
+[Hackathon_exp.sol](src/test/2024-04/Hackathon_exp.sol)
+
+### Link reference
+
+https://x.com/EXVULSEC/status/1779519508375613827
 
 ---
 
@@ -1451,7 +2558,7 @@ https://twitter.com/CyversAlerts/status/1779875922381860920
 ### Lost: ~14 BNB
 
 ```sh
-forge test --contracts ./src/test/2024-04/FIL314_exp.sol -vvv
+forge test --match-contract FIL314_exp -vvv
 ```
 
 #### Contract
@@ -1467,7 +2574,7 @@ forge test --contracts ./src/test/2024-04/FIL314_exp.sol -vvv
 ### Lost: 350K
 
 ```sh
-forge test --contracts ./src/test/2024-04/SumerMoney_exp.sol -vvv
+forge test --match-contract SumerMoney_exp -vvv
 ```
 
 #### Contract
@@ -1485,7 +2592,7 @@ https://twitter.com/0xNickLFranklin/status/1778986926705672698
 ### Lost: $~150 BNB
 
 ```
-forge test --contracts ./src/test/2024-04/GROKD_exp.sol -vvv
+forge test --match-contract GROKD_exp -vvv
 ```
 
 #### Contract
@@ -1498,12 +2605,30 @@ https://x.com/hipalex921/status/1778482890705416323?t=KvvG83s7SXr9I55aftOc6w&s=0
 
 ---
 
+### 20240410 BigBangSwap - precission loss
+
+### Lost: $~5K $BUSD
+
+```
+forge test --match-contract BigBangSwap_exp -vvv
+```
+
+#### Contract
+
+[BigBangSwap_exp.sol](src/test/2024-04/BigBangSwap_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1778254222288621912
+
+---
+
 ### 20240409 UPS - business logic flaw
 
 ### Lost: $~28K USD
 
 ```
-forge test --contracts ./src/test/2024-04/UPS_exp.sol -vvv
+forge test --match-contract UPS_exp -vvv
 ```
 
 #### Contract
@@ -1521,7 +2646,7 @@ https://twitter.com/0xNickLFranklin/status/1777589021058728214
 ### Lost: $~87K USD
 
 ```
-forge test --contracts ./src/test/2024-04/SQUID_exp.sol -vvv
+forge test --match-contract SQUID_exp -vvv
 ```
 
 #### Contract
@@ -1539,7 +2664,7 @@ https://twitter.com/bbbb/status/1777228277415039304
 ### Lost: $~18K USD
 
 ```
-forge test --contracts ./src/test/2024-04/WSM_exp.sol -vvv
+forge test --match-contract WSM_exp -vvv
 ```
 
 #### Contract
@@ -1552,12 +2677,30 @@ https://hacked.slowmist.io/#:~:text=Hacked%20target%3A%20Wall%20Street%20Memes
 
 ---
 
+### 20240402 HoppyFrogERC - business logic flaw
+
+### Lost: ~0.3 ETH
+
+```
+forge test --match-contract HoppyFrogERC_exp -vvv --evm-version shanghai
+```
+
+#### Contract
+
+[HoppyFrogERC_exp.sol](src/test/2024-04/HoppyFrogERC_exp.sol)
+
+### Link reference
+
+https://x.com/ChainAegis/status/1775351437410918420
+
+---
+
 ### 20240401 ATM - business logic flaw
 
 ### Lost: $~182K USD
 
 ```
-forge test --contracts ./src/test/2024-04/ATM_exp.sol -vvv
+forge test --match-contract ATM_exp -vvv
 ```
 
 #### Contract
@@ -1570,12 +2713,12 @@ https://twitter.com/0xNickLFranklin/status/1775008489569718508
 
 ---
 
-### 20240401 OpenLeverage - Reentrancy
+### 20240401 OpenLeverage - business logic flaw
 
 ### Lost: ~234K
 
 ```
-forge test --contracts src/test/2024-04/OpenLeverage2_exp.sol -vvv
+forge test --match-contract OpenLeverage2_exp -vvv
 ```
 
 #### Contract
@@ -1588,12 +2731,30 @@ https://twitter.com/0xNickLFranklin/status/1774727539975672136
 
 ---
 
+### 20240329 ETHFIN - lack of access control
+
+### Lost: ~$1.24K (2.13 BNB)
+
+
+```sh
+forge test --match-contract ETHFIN_exp -vvv --evm-version shanghai
+```
+#### Contract
+
+[ETHFIN_exp.sol](src/test/2024-03/ETHFIN_exp.sol)
+
+### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0xfe031685d84f3bae1785f5b2bd0ed480b87815c3f23ce6ced73b8573b7e367c6
+
+---
+
 ### 20240329 PrismaFi - Insufficient Validation
 
 ### Lost: $~11M
 
 ```sh
-forge test --contracts ./src/test/2024-03/Prisma_exp.sol -vvv
+forge test --match-contract Prisma_exp -vvv
 ```
 
 #### Contract
@@ -1611,7 +2772,7 @@ https://twitter.com/EXVULSEC/status/1773371049951797485
 ### Lost: ~340K
 
 ```
-forge test --contracts src/test/2024-03/LavaLending_exp.sol -vvv
+forge test --match-contract LavaLending_exp -vvv
 ```
 
 #### Contract
@@ -1633,7 +2794,7 @@ https://hackmd.io/@LavaSecurity/03282024
 ### Lost: ~223K
 
 ```
-forge test --contracts src/test/2024-03/ZongZi_exp.sol -vvv
+forge test --match-contract ZongZi_exp -vvv
 ```
 
 #### Contract
@@ -1646,12 +2807,30 @@ https://twitter.com/0xNickLFranklin/status/1772195949638775262
 
 ---
 
+### 20240323 CGT - Incorrect Access Control
+
+### Lost: 996B (CGT token)
+
+```sh
+forge test --match-contract CGT_exp -vvv
+```
+
+#### Contract
+
+[CGT_exp.sol](src/test/2024-03/CGT_exp.sol)
+
+### Link reference
+
+https://x.com/AnciliaInc/status/1771598968448745536
+
+---
+
 ### 20240321 SSS - Token Balance Doubles on Transfer to self
 
 ### Lost: 4.8M
 
 ```sh
-forge test --contracts ./src/test/2024-03/SSS_exp.sol -vvv
+forge test --match-contract SSS_exp -vvv
 ```
 
 #### Contract
@@ -1669,7 +2848,7 @@ https://twitter.com/dot_pengun/status/1770989208125272481
 ### Lost: ~348BNB
 
 ```
-forge test --contracts src/test/2024-03/ARK_exp.sol -vvv
+forge test --match-contract ARK_exp -vvv
 ```
 
 #### Contract
@@ -1687,7 +2866,7 @@ https://twitter.com/Phalcon_xyz/status/1771728823534375249
 ### Lost: ~24K
 
 ```
-forge test --contracts src/test/2024-03/Paraswap_exp.sol -vvv --evm-version shanghai
+forge test --match-contract Paraswap_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1705,7 +2884,7 @@ https://medium.com/neptune-mutual/analysis-of-the-paraswap-exploit-1f97c604b4fe
 ### Lost: ~413k USDT
 
 ```
-forge test --contracts src/test/2024-03/MO_exp.sol -vvv
+forge test --match-contract MO_exp -vvv
 ```
 
 #### Contract
@@ -1723,7 +2902,7 @@ https://twitter.com/0xNickLFranklin/status/1768184024483430523
 ### Lost: ~13k USDT
 
 ```
-forge test --via-ir  --contracts src/test/2024-03/IT_exp.sol -vvv
+forge test --via-ir ---match-contract IT_exp -vvv
 ```
 
 #### Contract
@@ -1736,12 +2915,48 @@ https://twitter.com/0xNickLFranklin/status/1768171595561046489
 
 ---
 
+### 20240312 BBT - business logic flaw
+
+### Lost: ~5.06 ETH
+
+```
+forge test --match-contract BBT_exp -vvv
+```
+
+#### Contract
+
+[BBT_exp.sol](src/test/2024-03/BBT_exp.sol)
+
+#### Link reference
+
+https://x.com/8olidity/status/1767470002566058088
+
+---
+
+### 20240311 Binemon - precission-loss
+
+### Lost: ~0.2 BNB
+
+```
+forge test --match-contract Binemon_exp -vvv
+```
+
+#### Contract
+
+[Binemon_exp.sol](src/test/2024-03/Binemon_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0x1999bb5c11a8d8bfa7620fc5cc37f5bc59c1a99d7a9250a8d6076c93bbdbeb5f
+
+---
+
 ### 20240309 Juice - Business Logic Flaw
 
 ### Lost: ~54 ETH
 
 ```sh
-forge test --contracts ./src/test/2024-03/Juice_exp.sol -vvv
+forge test --match-contract Juice_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -1759,7 +2974,7 @@ https://medium.com/@juicebotapp/juice-staking-exploit-next-steps-95e218b3ec71
 ### Lost: ~2M
 
 ```
-forge test --contracts src/test/2024-03/UnizenIO_exp.sol -vvvv
+forge test --match-contract UnizenIO_exp -vvvv
 ```
 
 #### Contract
@@ -1779,7 +2994,7 @@ https://twitter.com/AnciliaInc/status/1766261463025684707
 ### Lost: ~57K
 
 ```
-forge test --contracts ./src/test/2024-03/GHT_exp.sol -vvv
+forge test --match-contract GHT_exp -vvv
 ```
 
 #### Contract
@@ -1797,7 +3012,7 @@ forge test --contracts ./src/test/2024-03/GHT_exp.sol -vvv
 Testing
 
 ```
-forge test --contracts ./src/test/2024-03/ALP_exp.sol -vvv
+forge test --match-contract ALP_exp -vvv
 ```
 
 #### Contract
@@ -1815,7 +3030,7 @@ https://twitter.com/0xNickLFranklin/status/1765296663667875880
 ### Lost: ~150K
 
 ```
-forge test --contracts ./src/test/2024-03/TGBS_exp.sol -vvv
+forge test --match-contract TGBS_exp -vvv
 ```
 
 #### Contract
@@ -1835,7 +3050,7 @@ https://twitter.com/Phalcon_xyz/status/1765285257949974747
 ### Lost: ~8M
 
 ```
-forge test --contracts ./src/test/2024-03/Woofi_exp.sol -vvv
+forge test --match-contract Woofi_exp -vvv
 ```
 
 #### Contract
@@ -1854,7 +3069,7 @@ https://twitter.com/PeckShieldAlert/status/1765054155478175943
 ### Lost: ~6M
 
 ```
-forge test --contracts ./src/test/2024-02/Seneca_exp.sol -vvv
+forge test --match-contract Seneca_exp -vvv
 ```
 
 #### Contract
@@ -1872,7 +3087,7 @@ https://twitter.com/Phalcon_xyz/status/1763045563040411876
 ### Lost: Unclear
 
 ```
-forge test --contracts ./src/test/2024-02/SMOOFSStaking_exp.sol -vvv
+forge test --match-contract SMOOFSStaking_exp -vvv
 ```
 
 #### Contract
@@ -1887,12 +3102,30 @@ https://twitter.com/0xNickLFranklin/status/1762895774311178251
 
 ---
 
+### 20240223 Zoomer - Business Logic Flaw
+
+### Lost: ~14 ETH
+
+```
+forge test --match-contract Zoomer_exp -vvv --evm-version "shanghai"
+```
+
+#### Contract
+
+[Zoomer_exp.sol](src/test/2024-02/Zoomer_exp.sol)
+
+#### Link reference
+
+https://x.com/ChainAegis/status/1761246415488225668
+
+---
+
 ### 20240223 CompoundUni - Oracle bad price
 
 ### Lost: ~439,537 USD
 
 ```
-forge test --contracts ./src/test/2024-02/CompoundUni_exp.sol -vvv
+forge test --match-contract CompoundUni_exp -vvv
 ```
 
 #### Contract
@@ -1910,7 +3143,7 @@ https://twitter.com/0xLEVI104/status/1762092203894276481
 ### Lost: ~1,400,000 USD
 
 ```
-forge test --contracts ./src/test/2024-02/BlueberryProtocol_exp.sol -vvv
+forge test --match-contract BlueberryProtocol_exp -vvv
 ```
 
 #### Contract
@@ -1923,12 +3156,30 @@ https://twitter.com/blueberryFDN/status/1760865357236211964
 
 ---
 
+### 20240222 SwarmMarkets - lack of validation
+
+### Lost: ~7k $DAI
+
+```
+forge test --match-contract SwarmMarkets_exp -vvv
+```
+
+#### Contract
+
+[SwarmMarkets_exp.sol](src/test/2024-02/SwarmMarkets_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/eth/0xa4d7ee2ddb9db06961a17e2a5ae71743a266bcb720be138670f4a10e8dfc13e9
+
+---
+
 ### 20240221 DeezNutz 404 - lack of validation
 
 ### Lost: ~170k
 
 ```
-forge test --contracts ./src/test/2024-02/DeezNutz404_exp.sol -vvv
+forge test --match-contract DeezNutz404_exp -vvv
 ```
 
 #### Contract
@@ -1946,7 +3197,7 @@ https://twitter.com/0xNickLFranklin/status/1760481343161700523
 ### Lost: ~6.4 ETH
 
 ```
-forge test --contracts ./src/test/2024-02/GAIN_exp.sol -vvv
+forge test --match-contract GAIN_exp -vvv
 ```
 
 #### Contract
@@ -1959,12 +3210,30 @@ https://twitter.com/0xNickLFranklin/status/1760559768241160679
 
 ---
 
+### 20240220 EGGX - reentrancy
+
+### Lost: ~2 ETH
+
+```
+forge test --match-contract EGGX_exp -vvv
+```
+
+#### Contract
+
+[EGGX_exp.sol](src/test/2024-02/EGGX_exp.sol)
+
+#### Link reference
+
+https://x.com/PeiQi_0/status/1759826303044497726
+
+---
+
 ### 20240219 RuggedArt - reentrancy
 
 ### Lost: ~10k
 
 ```
-forge test --contracts ./src/test/2024-02/RuggedArt_exp.sol -vvv
+forge test --match-contract RuggedArt_exp -vvv
 ```
 
 #### Contract
@@ -1982,7 +3251,7 @@ https://twitter.com/EXVULSEC/status/1759822545875025953
 ### Lost: ~50k
 
 ```
-forge test --contracts ./src/test/2024-02/ParticleTrade_exp.sol -vvv
+forge test --match-contract ParticleTrade_exp -vvv
 ```
 
 #### Contract
@@ -2000,7 +3269,7 @@ https://twitter.com/Phalcon_xyz/status/1758028270770250134
 ### Lost: ~42k
 
 ```
-forge test --contracts ./src/test/2024-02/DualPools_exp.sol -vvvv
+forge test --match-contract DualPools_exp -vvvv
 ```
 
 #### Contract
@@ -2013,12 +3282,30 @@ https://medium.com/@lunaray/dualpools-hack-analysis-5209233801fa
 
 ---
 
+### 20240215 Babyloogn - lack of validation
+
+### Lost: ~2 $BNB
+
+```
+forge test --match-contract Babyloogn_exp -vvvv
+```
+
+#### Contract
+
+[Babyloogn_exp.sol](src/test/2024-02/Babyloogn_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0xd081d6bb96326be5305a6c00dd51d1799971794941576554341738abc1ceb202
+
+---
+
 ### 20240215 Miner - lack of validation dst address
 
 ### Lost: ~150k
 
 ```
-forge test --contracts ./src/test/2024-02/Miner_exp.sol -vvv --evm-version shanghai
+forge test --match-contract Miner_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -2031,12 +3318,30 @@ https://twitter.com/Phalcon_xyz/status/1757777340002681326
 
 ---
 
+### 20240213 MINER - Price Manipulation
+
+### Lost: ~3.5 WBNB
+
+
+```sh
+forge test --match-contract MINER_bsc_exp -vvv --evm-version shanghai
+```
+#### Contract
+
+[MINER_bsc_exp.sol](src/test/2024-02/MINER_bsc_exp.sol)
+
+### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0x15ab671c9bf918fa4b6a9eed9ccb527f32aca40e926ede2aec2c84dfa9c30512?line=6
+
+---
+
 ### 20240211 Game - Reentrancy && Business Logic Flaw
 
 ### Lost: ~20 ETH
 
 ```
-forge test --contracts ./src/test/2024-02/Game_exp.sol -vvv
+forge test --match-contract Game_exp -vvv
 ```
 
 #### Contract
@@ -2054,7 +3359,7 @@ https://twitter.com/AnciliaInc/status/1757533144033739116
 ### Lost: 200K
 
 ```sh
-forge test --contracts ./src/test/2024-02/DN404_exp.sol -vvv
+forge test --match-contract DN404_exp -vvv
 ```
 
 #### Contract
@@ -2068,7 +3373,7 @@ forge test --contracts ./src/test/2024-02/DN404_exp.sol -vvv
 ### Lost: ~17K USD
 
 ```
-forge test --contracts ./src/test/2024-02/PANDORA_exp.sol -vvv
+forge test --match-contract PANDORA_exp -vvv
 ```
 
 #### Contract
@@ -2086,7 +3391,7 @@ https://twitter.com/pennysplayer/status/1766479470058406174
 ### Lost: ~67K
 
 ```
-forge test --contracts ./src/test/2024-02/BurnsDefi_exp.sol -vvv
+forge test --match-contract BurnsDefi_exp -vvv
 ```
 
 #### Contract
@@ -2101,12 +3406,30 @@ https://medium.com/neptune-mutual/how-was-citadel-finance-exploited-a5f9acd0b408
 
 ---
 
+### 20240202 ADC - incorrect-access-control
+
+### Lost: ~20 eth
+
+```
+forge test --match-contract ADC_exp -vvv
+```
+
+#### Contract
+
+[ADC_exp.sol](src/test/2024-02/ADC_exp.sol)
+
+#### Link reference
+
+https://x.com/EXVULSEC/status/1753294675971313790
+
+---
+
 ### 20240201 AffineDeFi - lack of validation userData
 
 ### Lost: ~88K
 
 ```
-forge test --contracts ./src/test/2024-02/AffineDeFi_exp.sol -vvv
+forge test --match-contract AffineDeFi_exp -vvv
 ```
 
 #### Contract
@@ -2121,12 +3444,30 @@ https://twitter.com/CyversAlerts/status/1753040754287513655
 
 ---
 
+### 20240130 XSIJ - Business Logic Flaw
+
+### Lost: ~51K USD
+
+```
+forge test --match-contract XSIJ_exp -vvv
+```
+
+#### Contract
+
+[XSIJ_exp.sol](src/test/2024-01/XSIJ_exp.sol)
+
+#### Link reference
+
+https://x.com/CertiKAlert/status/1752384801535918264
+
+---
+
 ### 20240130 MIMSpell - Precission Loss
 
 ### Lost: ~6,5M
 
 ```
-forge test --contracts ./src/test/2024-01/MIMSpell2_exp.sol -vvv
+forge test --match-contract MIMSpell2_exp -vvv
 ```
 
 #### Contract
@@ -2145,12 +3486,30 @@ https://phalcon.blocksec.com/explorer/security-incidents
 
 ---
 
+### 20240129 PeapodsFinance - Reentrancy
+
+### Lost: ~1K $DAI
+
+```
+forge test --match-contract PeapodsFinance_exp -vvv
+```
+
+#### Contract
+
+[PeapodsFinance_exp.sol](src/test/2024-01/PeapodsFinance_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/eth/0x95c1604789c93f41940a7fd9eca11276975a9a65d250b89a247736287dbd2b7e
+
+---
+
 ### 20240128 BarleyFinance - Reentrancy
 
 ### Lost: ~130K
 
 ```
-forge test --contracts ./src/test/2024-01/BarleyFinance_exp.sol -vvv
+forge test --match-contract BarleyFinance_exp -vvv
 ```
 
 #### Contract
@@ -2172,7 +3531,7 @@ https://twitter.com/Phalcon_xyz/status/1751788389139992824
 ### Lost: ~93K
 
 ```
-forge test --contracts ./src/test/2024-01/CitadelFinance_exp.sol -vvv
+forge test --match-contract CitadelFinance_exp -vvv
 ```
 
 #### Contract
@@ -2190,7 +3549,7 @@ https://medium.com/neptune-mutual/how-was-citadel-finance-exploited-a5f9acd0b408
 ### Lost: ~180K
 
 ```
-forge test --contracts ./src/test/2024-01/NBLGAME_exp.sol -vvv
+forge test --match-contract NBLGAME_exp -vvv
 ```
 
 #### Contract
@@ -2210,7 +3569,7 @@ https://twitter.com/AnciliaInc/status/1750558426382635036
 ### Lost: ~319K
 
 ```
-forge test --contracts ./src/test/2024-01/DAO_SoulMate_exp.sol -vvv --evm-version 'shanghai'
+forge test --match-contract DAO_SoulMate_exp -vvv --evm-version 'shanghai'
 ```
 
 #### Contract
@@ -2228,7 +3587,7 @@ https://twitter.com/MetaSec_xyz/status/1749743245599617282
 ### Lost: ~114K
 
 ```
-forge test --contracts ./src/test/2024-01/Bmizapper_exp.sol -vvv
+forge test --match-contract Bmizapper_exp -vvv
 ```
 
 #### Contract
@@ -2241,12 +3600,30 @@ https://x.com/0xmstore/status/1747756898172952725
 
 ---
 
+### 20240115 Shell_MEV_0xa898 - lack of access control
+
+### Lost: ~1K $BUSD
+
+```
+forge test --match-contract Shell_MEV_0xa898_exp -vvv
+```
+
+#### Contract
+
+[Shell_MEV_0xa898_exp.sol](src/test/2024-01/Shell_MEV_0xa898_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0x24f114c0ef65d39e0988d164e052ce8052fe4a4fd303399a8c1bb855e8da01e9
+
+---
+
 ### 20240112 SocketGateway - Lack of calldata validation
 
 ### Lost: ~3.3Million $
 
 ```
-forge test --contracts ./src/test/2024-01/SocketGateway_exp.sol -vvv --evm-version shanghai
+forge test --match-contract SocketGateway_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -2266,7 +3643,7 @@ https://twitter.com/peckshield/status/1747353782004900274
 ### Lost: ~464K
 
 ```
-forge test --contracts ./src/test/2024-01/WiseLending02_exp.sol -vvv --evm-version shanghai
+forge test --match-contract WiseLending02_exp -vvv --evm-version shanghai
 ```
 
 #### Contract
@@ -2279,12 +3656,30 @@ https://twitter.com/danielvf/status/1746303616778981402
 
 ---
 
+### 20240110 Freedom - lack of access control
+
+### Lost: 74 $WBNB
+
+```
+forge test --match-contract Freedom_exp -vvv
+```
+
+#### Contract
+
+[Freedom_exp.sol](src/test/2024-01/Freedom_exp.sol)
+
+#### Link reference
+
+https://app.blocksec.com/explorer/tx/bsc/0x309523343cc1bb9d28b960ebf83175fac941b4a590830caccff44263d9a80ff0
+
+---
+
 ### 20240110 LQDX - Unauthorized TransferFrom
 
 ### Lost: unknown
 
 ```
-forge test --contracts src/test/2024-01/LQDX_alert_exp.sol -vvv
+forge test --match-contract LQDX_alert_exp -vvv
 ```
 
 #### Contract
@@ -2302,7 +3697,7 @@ https://twitter.com/SlowMist_Team/status/1744972012865671452
 ### Lost: ~6.3M
 
 ```
-forge test --contracts ./src/test/2024-01/Gamma_exp.sol -vvv
+forge test --match-contract Gamma_exp -vvv
 ```
 
 #### Contract
@@ -2322,7 +3717,7 @@ https://twitter.com/shoucccc/status/1742765618984829326
 ### Lost: ~500K
 
 ```
-forge test --contracts ./src/test/2024-01/MIC_exp.sol -vvv
+forge test --match-contract MIC_exp -vvv
 ```
 
 #### Contract
@@ -2340,7 +3735,7 @@ https://x.com/MetaSec_xyz/status/1742484748239536173
 ### Lost: ~4,5M
 
 ```
-forge test --contracts ./src/test/2024-01/RadiantCapital_exp.sol -vvv
+forge test --match-contract RadiantCapital_exp -vvv
 ```
 
 #### Contract
@@ -2360,7 +3755,7 @@ https://twitter.com/BeosinAlert/status/1742389285926678784
 ### Lost: ~81M
 
 ```
-forge test --contracts ./src/test/2024-01/OrbitChain_exp.sol -vvv
+forge test --match-contract OrbitChain_exp -vvv
 ```
 
 #### Contract
@@ -2384,7 +3779,7 @@ forge test --gas-report --contracts <contract> -vvv
 ```
 
 For Example:
-Let us find out the gas used in the [Audius poc](past/2022/README.md#20220723-audius---storage-collision--malicious-proposal)
+Let us find out the gas used in the [Audius poc](src/test/2022-07/Audius_exp.sol)
 
 **Execution**
 
